@@ -1,4 +1,4 @@
-A collect of my dot file
-========================
+A collection of my dot file
+===========================
 
-Config's for fluxbox, X, etc .....
+Config's for PowerShell, vim, emacs, fluxbox, X, etc .....
